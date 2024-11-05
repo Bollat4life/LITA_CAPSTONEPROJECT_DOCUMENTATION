@@ -88,12 +88,16 @@ WHERE CONDITION = TRUE
 ### BASIC STATISTICS ABOUT THE DATABASE
 The major analysis is to showcase the best money making products and to reduce the cost and increase market share in the two business Sales Analysis Report for Priceless Store and Customer Segmentation for a Subscription Service. 
 Taking a look at the store products which includes shoes, hat, gloves, shirt, socks and jacket. The top selling product are shoes with 3.1million, follow by shirt for 2.5million and next is hat with 1.6million but socks is the less selling product in the store with 0.9million. it’s very good to focus on the selling products but must put in mind the lower selling products by looking at for the types people like to have in each region and area.
+![image](https://github.com/user-attachments/assets/2ba20f97-7bf4-4e64-a641-9e45403b4567)
 
 The region with the best sales is South with the total sales of 4.67million with 44.16% follow by East with the total sales of 2.45million with 23.1% and the less is West with the total sales of 1.51million with 14.3% the company should focus more on this region checking out for the products that work well within season and out of season, good follow up on the staffs with good trainings for effective performance.
+
 
 Within the month the sales trend more in some month than the others which is importance to take note for excellence result, taking a look at some months from January to February the sales is very good and start dropping by March ending compare to April, May and the sale take up again in June ending to August and rise a little in November but drop. It’s importance to note that there is more sales during some moths and season by making the products available more and reaching to people for good sales 
 
 Subscription service includes types which are Basic, Premium and Standard. Each subscription types have different products, advantages with different price. All the whole region are accepting the product in a wonderful way why South is taking the leads with 38million total revenue with 25.08%.
+![image](https://github.com/user-attachments/assets/ee9d9cb0-c022-473c-a4c9-712bcc46bf68)
+
 
 Checking through the subscription duration by revenue to identify customers behavior through the segments and trend, l discover that the Basic subscription type is on a high side with 75million which is a plus to the company, follows by Premium with 38million and the Standard subscription 37million but a special focus must be put on the two subscription type for improvement in revenue.  Like the price, the quantity, awareness and staff relationship. Taking from what is working in Basic to supply the sales in the remaining two subscription types.
 
